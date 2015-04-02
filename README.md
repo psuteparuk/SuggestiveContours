@@ -1,0 +1,3 @@
+In this project, we will implement a pipeline for a nonphotorealistic rendering technique. We will render only interesting features of a 3D mesh.
+
+The project consists of three parts. First, we will decimate the mesh to a smaller number of triangles, so that fewer triangles need to be processed. Then we will implement part of a technique for finding suggestive contours highlighting key geometric features of the object being modeled. Finally, we implement additional features including rendering suggestive highlights, removing spurious contours, etc. See the writeup for further information.
