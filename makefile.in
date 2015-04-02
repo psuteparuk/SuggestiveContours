@@ -1,0 +1,5 @@
+CPP = g++
+LD = g++
+OPENMESH_INCLUDE_DIR = /usr/class/cs348a/source/OpenMesh-2.3.1-compiled/src/
+OPENMESH_LIB_DIR = /usr/class/cs348a/source/OpenMesh-2.3.1-compiled/build/Build/lib/OpenMesh
+EIGEN_DIR = /usr/class/cs348a/source/eigen3.1.1

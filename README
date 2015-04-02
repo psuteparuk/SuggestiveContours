@@ -1,0 +1,14 @@
+CS 348a Homework 4:  Decimation, Nonphotorealistic rendering
+------------------------------------------------------------
+
+In this homework, you will decimate meshes to a smaller number of triangles, render suggestive contours to help illustrate their shape, and implement an additional feature of your choosing.
+
+There are several slots in need of your code, which are marked clearly and explained in the homework document.
+
+This "skeleton code" is designed to compile on the Myth machines.  To do so, simply type "make" at the command line.  Then, to run the viewer, type:
+
+	./drawMesh models/horse.off 
+	
+at the command line, where models/horse.off is the model you wish to use.
+
+The easiest way to get started is to write your code on a Myth machine, either in person or via SSH with X forwarding.  If you prefer to work on your personal machine, you will need to modify makefile.in to point to the proper libraries.  The CAs can help you get started.
